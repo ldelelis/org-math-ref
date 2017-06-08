@@ -7,7 +7,7 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
    - Sum :: The result of an addition.
    - Addend :: A number which is added to another.
    - Term :: A number/expression seperated by a + or -.
-*** Egenskaber
+*** Properties
     - Commutative
 ** Subtraction
    - Def: The act of taking a number from another.
@@ -16,14 +16,14 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
    - Minuend :: A number which is to be subtracted.
    - Subtrahend :: A number to be subtracted from another.
    - Term :: A number/expression seperated by a + or -.
-*** Egenskaber
+*** Properties
     - Non-commutative
 ** Multiplication
    - Def: The addition of a number to itself
    - Minus times minus is plus
    - Product :: The result of a multiplication.
    - Faktor :: A number that participates in a multiplication.
-*** Egenskaber
+*** Properties
     - Commutative
 ** Division
    - Def: The act of dividing a number.
@@ -31,7 +31,7 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
    - Dividend :: A number to be divided by another.
    - Divisor :: A number by which another number is divided
    - Quotient :: The result of a division or fraction.
-*** Egenskaber
+*** Properties
    - Non-commutative
 * Parentheses
   - The first priority in the hierarchy.
