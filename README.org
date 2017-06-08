@@ -1,0 +1,7 @@
+* org-math-ref
+These are my math notes written in Emacs' org-mode.
+
+Feel free to contribute with any language supported by pandoc.
+
+* Todo
+  - Add a script that converts all files into a LaTeX pdf using pandoc.
