@@ -1,0 +1,2 @@
+* List of ISO standards
+  - ISO 80000-2 :: Signs and symbols

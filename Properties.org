@@ -1,0 +1,4 @@
+* Zero-product property
+  - Def: The product of 2 nonzero quantities is not zero.
+    - ab = 0 \rArr a = 0 \lor b = 0
+  - Aka rule of zero product

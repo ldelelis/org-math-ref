@@ -1,0 +1,206 @@
+Arithmetic is a branch of number theory. Can't be said with certainty.
+
+* Basic operations
+** Addition
+   - Def: The act of adding a number to another.
+   - Add :: Put together 2 or more numbers to calculate a sum.
+   - Sum :: The result of an addition.
+   - Addend :: A number which is added to another.
+   - Term :: A number/expression seperated by a + or -.
+*** Egenskaber
+    - Commutative
+** Subtraction
+   - Def: The act of taking a number from another.
+   - Subtract :: Take away a number from another
+   - Difference :: The result of a subtraction.
+   - Minuend :: A number which is to be subtracted.
+   - Subtrahend :: A number to be subtracted from another.
+   - Term :: A number/expression seperated by a + or -.
+*** Egenskaber
+    - Non-commutative
+** Multiplication
+   - Def: The addition of a number to itself
+   - Minus times minus is plus
+   - Product :: The result of a multiplication.
+   - Faktor :: A number that participates in a multiplication.
+*** Egenskaber
+    - Commutative
+** Division
+   - Def: The act of dividing a number.
+   - Divide :: Calculate how many times a number contains another.
+   - Dividend :: A number to be divided by another.
+   - Divisor :: A number by which another number is divided
+   - Quotient :: The result of a division or fraction.
+*** Egenskaber
+   - Non-commutative
+* Parentheses
+  - The first priority in the hierarchy.
+** Gange ind i parantes
+   - Man bruger den distributive lov // TODO Skal researches nærmere.
+   - Multiply each term in the parentheses.
+     - a(b + c) = ab + ac
+** Multiply 2 parentheses
+   - Each number in the first, is multiplied into the other.
+     - (a + b)(c + d) = ac + ad + 
+** Factorization
+   - Def: The act of turning an object into factors
+   - You can make 2 terms into a factor.
+** Terms and parentheses
+   - Parentheses containing addends can just be evauluated.
+   - If they contain a minus, change the sign of every term.
+* Binomial theorem
+  - Def: Describes the expansion of powers of a binomial.
+** Square of a binomial
+  - Often used for reduction.
+*** Equations
+    - (a + b)² = a² + b² + 2ab
+    - (a - b)² = a² + b² - 2ab
+    - (a + b)(a - b) = a² - b²
+* Fraction
+  - Def: A representation of a non-whole number.
+  - The denominator can't be 0.
+  - Danish mnemonic: Top = Tæller, Nederst = Nævner
+  - The bigger the numerator, the lower the quotient.
+    - m > n, 1/m < 1/n
+  - If the numerator and denominator are idential, the quotient is 1.
+  - Numerator :: The number above the line.
+  - Denominator :: The number below the line.
+  - Quotient :: The result of a division or fraction.
+  - Unit fraction :: Fraction with a numerator of 1.
+** Addition og subtraction
+   - To add, add add both numerators.
+   - To subtract, subtract both numerators.
+   - Both fractions needs to have a common denominator.
+   - a/c ± b/c = (a ± b)/c
+** Multiplication
+   - 2 fractions: Multiply the numerators and denominators
+     respectively.
+     - a/b * c/d = ac/bd
+   - Fraction and number: Multiply the number with the numerator.
+     - a * b/c = ab/c
+** Division
+   - 2 fractions: Multiply with the reciprocal fraction.
+     - a/b / c/d = a/b * d/c
+   - Fraction and number
+     - Multiply the number with the denominator.
+       - a/b / c = a/bc, c ≠ 0
+     - If a division of the numerator and number has a remainder of 0,
+       it's also legal.
+       - a/b / c = a/c/b, a mod c = 0
+** Reduction and expansion
+   - Reduction: Divide the numerator and denominator with the greatest
+     common divisor.
+   - Expansion: Multiply the numerator and denominator with a factor.
+* Exponentiation
+  - Def: The act of raising a quantity to the power of another.
+    - b^n
+  - Roots are the opposite of exponentiation.
+  - Base :: The number that is multiplied by itself.
+  - Exponent :: The quantity that represents the power to which a
+                given number or expression is to be raised.
+  - Power :: The result of an exponentiation.
+** Multiplication
+   - If the bases are equal, the exponents can be added.cc
+     - a^n * a^m = a^(n+m)
+   - If the exponents are equal, the bases can be multiplied.
+     - a^n * b^n = (a * b)^n   
+** Division
+   - If the bases are equal, the exponents can be subtracted.
+     - a^m/a^n = a^m-n
+   - If the exponents are equal, the bases can be divided.
+     - a^n/b^n = (a/b)^n
+** Power of a power
+   - You multiply the exponents.
+     - (a^n)^m = a^{n*m}
+** Exponent of 0 or 1
+   - If the exponent is 1, the power is the base.
+     - x^1 = x
+   - If the exponent is 0, the power is 1.
+     - a^0 = 1
+** Negative exponents
+   - If the exponent is negative, the power can be turned into a
+     fraction, where the exponent is positive.
+     - a^n = 1/a^n
+   - If the exponent is -1, the denominator is equal to the base.
+     - a⁻¹ = 1/a
+** Fractional exponents
+   - If the exponent is a unit fraction, it can be converted to an
+     nth root.
+     - x^{1/n} = nroot(x, n)
+   - If the exponent is a fraction, it can be converted to an nth
+     root to the power of the numerator.
+     - x^{m/n} = nroot(x, n)^m
+** Power of 10 (Scientific notation)
+   - Def: An integer with an exponent of 10.
+   - Def #2: A way of writing a very large/small number.
+     - m * 10^n or 10^n
+   - The exponent indicates how many zeroes that go after the 1.
+   - In programming, spreadsheets and databases E notation is used.
+* Roots
+   - Def: A quantity multiplied by itself, that gives another
+     quantity.
+     - nroot(a, n)
+   - A root with a degree of 2 is called a square root.
+   - A root with a degree of 3 is known as a cube root.
+   - Roots with a higher degree are reffered by ordinal numbers.
+   - Exponentation is the opposite of roots.
+   - nroot(a, n) = a^{1/n}
+   - Radical :: The number having its root taken.
+   - Degree :: The exponent for a root.
+   - Radix :: The sign used for roots. √.
+     - Also called the /radical sign/.
+** Square root
+   - Def: A root with a degree of 2.
+     - √(x)
+   - A square root to the power of 2 will cancel each other out.
+     - √(x)^2 = x
+   - Da kvadratroden kan omskrives til en gælder potensreglerne også.
+   - En eksponent på 0,5 svare til kvadratroden af samme tal.
+   - √a = a^{1/2}, a > 0
+** Roden af en potens
+   - Hvis rodeksponenten og eksponent er ens, så får man samme resultat.
+   - Hvis rodeksponenten og eksponent er forskellige, kan man lave roden
+     om til en potens.
+   - root(a^p, q) = a^{p/q}
+** Regneregler for rødder
+   - Hvis man dividere eller multiplikere, kan man finde roden før man
+     udfører operationen.
+     - root(a * b, n) = root(a, n) * root(b, n)
+     - root(a/b, n) = root(a, n)/root(b, n)
+   - Hvis en brøk med nævneren, n, er en eksponent, kan den laves om
+     til en brøk.
+     - a^{-1/n} = 1/root(a, n), b > 0
+* Properties of arithmetic
+** Commutative
+   - Def: An operation is commutative if order is irrelevant.
+   - Noncommutative operation :: If order is relevant..
+** Associative
+   - Def: A group of quantities yield the same result regardless of
+     their grouping.
+** Distributive
+   - Def: Multiplying a sum or difference with a number is the same as
+     multiplying the terms.
+     - x(y ± z) = xy + xz
+* Prime number
+  - Def: A number with no other divisors than 1 and itself.
+** Prime number factorization
+   - Def: A method for finding the prime factors of a number, by
+     dividing with the lowest prime numbers.
+   - Tip: Start with the lowest prime numbers.
+* Lowest common multiple
+  - Def: The lowest quantity that is a multiple of 2 or more
+    quantities.
+    - lcm(x, y) = z
+  - Multiple :: A number divided by another without returning a
+                remainder.
+** Method
+   1. Prime factor the 2 numbers.
+   2. The common factors and the rest of the prime factors are multiplied.
+   3. The result is the least common multiple.
+*** Example
+    1. 36 and 120.
+    2. The prime factors of 36 are 2^2 * 3^2.
+    3. The prime factors of 120 are 2^3 * 3 * 5.
+    4. Common prime factors are 2^2, 3 and 5.
+    5. 2^2 * 3 * 5 = 60
+    6. 60 is the lowest common multiple.

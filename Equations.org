@@ -1,0 +1,70 @@
+* Equations
+  - Def: An equality between 2 expressions containing variables.
+  - Solving an equation means finding the value(s) of the variable(s).   
+** Quadratic equation
+   - Def: Any equation given the form: ax^2 + bx + c = 0.
+   - a, b and c are the coefficients.
+   - If a = 0, the equation is linear.
+   - The equation is a /second degree polynomial equation/.
+   - Graphed it is called a parabola.
+   - Quadratic coefficient :: Variable a.
+   - Linear coefficient :: Variable b.
+   - Constant :: Variable c.
+     - Synonym: Free term.
+*** Discriminant
+    - Def: Solution by using finding the discriminant.
+    - The discriminant is represented as /D/ or delta.
+    - Δ = b^2 - 4ac
+    - x = (-b ± √Δ) / (2a)
+** System of equations (Simultaneous equations)
+   - Def: A finite set of equations, that share common solutions.
+*** Substitution
+    - Def: Isolate one of the variables and substitute it in another
+      equation.
+**** Method
+     1. Solve an equation for a variable.
+     2. Substitute the solved variable with the expression.
+     3. Repeat until all variables have been found.
+**** Example
+     1. ax + by = c
+	dx + ey = f
+     2. x = -(by - c)/a // Solved for x
+     3. d * (-(by - c)/a) + ey = f // x has been substituted
+     4. y = (cd - af)/(bd - ae) // Solved for y	
+*** Addition / Elimination
+    - Def: Make one of the coefficients equal in both equations, to
+      add or subtract them.
+**** Method
+     1. Make one of the coefficients for all equations equal. Multiply
+        if needed.
+     2. Add or subtract the equations.
+     3. Solve the equation for the remaining variable.
+     4. Insert the value in one of the equations and solve it.
+**** Example
+     1. 2x + 4y = 20
+	5x + 2y = 30
+     2. 10x + 4y = 60 // Multiplied by 2
+     3. (2x + 4y) - (10x + 4y) = 20 - 60
+     4. -8x = -40
+     5. x = 5
+     6. 2 * 5 + 4y = 20
+     7. 4y = 10
+     8. y = 5/2
+*** Cramer's rule
+    - Def: Solves an equation by dividing determinants of 2 matrices.
+**** Method
+     1. Multiply the first coefficient of the first equation by the
+        second equation.
+     2. Do the same, but the first coefficient of the 2nd equation.
+     3. Put both right sides against each other.
+     4. Isolate both expressions that contain a y.
+     5. Factor y.
+     6. Divide the parentheses, to solve for y.
+     7. Do the same for x, but multiply with the second coefficient.
+     8. Find the determinant of the equations.
+     9. Find it again, but solved for x.
+     10. Find it a 3rd time, but solved for y.
+     11. Divide the determinant of x and y with the base determinant.
+*** Gaussian elimination
+    - Def: A method that utilizes matrix elementary row operations.
+    - Aka row reduction.

@@ -1,0 +1,43 @@
+* Natural numbers
+  - Def: A positive integer. Sometimes 0 is included.
+    - *N* = {1, 2, 3, ...}
+    - *N^{*}* = {0, 1, 2, ...}
+  - Symbols: *N*
+  - If 0 is not included, it is symbolized with a * (asterisk).
+
+* Integers
+  - Def: Includes natural numbers and negative numbers.
+    - *Z* = {..., -2, -1, 0, 1, 2, ...}
+  - Symbols: *Z*
+  - Originates from the German word /Zahlen/.
+
+* Rational numbers
+  - Def: Any number that can be expressed as a quotient or fraction of
+    2 integers..
+  - Symbols: *Q*
+  - The deniminator can't be 0.
+
+* Irrational numbers
+  - Def: A number that can't be as a fraction containing 2 integers.
+  - There is no standard symbol. R \ Q can be used.
+  - E.g. \pi, \radic.
+
+* Real numbers
+  - Def: A combination of real numbers and irrational numbers.
+  - Symbol: *R*.
+
+* Complex numbers
+  - Def: A combination of an imaginary and a real number.
+    - a + bi
+  - Symbol: *C*
+
+* Prime numbers
+  - Def: A number that can only be divided by itself or 1.
+    - *P* = {2, 3, 5, 7, 11}
+  - Symbol: *P*
+
+* Parity
+  - Def: The state of a number being even or odd.
+    - Even = 2n
+    - Odd = 2n - 1
+  - /n/ is an integer

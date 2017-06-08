@@ -1,0 +1,6 @@
+* Absolute value
+  - Def: The magnitude of a quantity, irrespective of its sign.
+    - |x| = x ⇒ x ≥ 0
+    - |x| = -x ⇒ x < 0
+* Absolute value equations
+  - Def: Equations that contain absolute values.

@@ -1,0 +1,13 @@
+* Inequality
+  - Def: A comparison of 2 different values.
+  - Notation for intervals can be applied to inequalities.
+** Types of inequalities
+  - Less than, x < y
+  - Greater than, x > y
+  - Less than or equal to, x ≤ y
+  - Greater than or equal to, x ≥ y
+** Arithmetic rules
+   - Addition and subtraction is legal.
+   - Multiplication and division with a positive number is defined.
+     - If the factor or divisor is negative, the inequality sign must
+       be reverted.

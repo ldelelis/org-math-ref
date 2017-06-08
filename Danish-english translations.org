@@ -1,0 +1,31 @@
+* Danish-english translations
+  - Addend :: Addend
+  - Addition :: Addition
+  - Andengradspolynomium :: Quadratic equation
+  - Brøk :: Fraction
+  - Differenskvotient :: Difference quotient
+  - Differentialkvotien :: Derirative
+  - Dividend :: Dividend
+  - Division :: Division
+  - Faktor :: Factor
+  - Heltal :: Integers
+  - Irrationale tal :: Irrational numbers
+  - Kvadratsætningerne :: Binomial theorem
+  - Lige og ulige tal :: Parity
+  - Minuend :: Minuend
+  - Multiplikation :: Multiplication
+  - Mængdebygning :: Set-builder notation
+  - Naturlige tal :: Natural numbers
+  - Nulreglen :: Zero-product property
+  - Nævner :: Denominator
+  - Parantes :: Parenthesis
+  - Potens :: Exponentiation
+  - Radikan :: Radicand
+  - Rationale tal :: Rational numbers
+  - Reelle tal :: Real numbers
+  - Rodeksponent :: Degree
+  - Subtrahend :: Subtrahend
+  - Subtraktion :: Subtraction
+  - Tæller :: Numerator
+  - Vendepunkt :: Point of inflection
+    - Danish synonym: infleksionspunkt
