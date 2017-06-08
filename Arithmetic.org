@@ -41,12 +41,12 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
      - a(b + c) = ab + ac
 ** Multiply 2 parentheses
    - Each number in the first, is multiplied into the other.
-     - (a + b)(c + d) = ac + ad + 
+     - (a + b)(c + d) = ac + ad + bc + bd
 ** Factorization
    - Def: The act of turning an object into factors
    - You can make 2 terms into a factor.
 ** Terms and parentheses
-   - Parentheses containing addends can just be evauluated.
+   - Parentheses containing addends can just be evaluated.
    - If they contain a minus, change the sign of every term.
 * Binomial theorem
   - Def: Describes the expansion of powers of a binomial.
@@ -67,7 +67,7 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
   - Denominator :: The number below the line.
   - Quotient :: The result of a division or fraction.
   - Unit fraction :: Fraction with a numerator of 1.
-** Addition og subtraction
+** Addition and subtraction
    - To add, add add both numerators.
    - To subtract, subtract both numerators.
    - Both fractions needs to have a common denominator.
@@ -100,7 +100,7 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
                 given number or expression is to be raised.
   - Power :: The result of an exponentiation.
 ** Multiplication
-   - If the bases are equal, the exponents can be added.cc
+   - If the bases are equal, the exponents can be added.
      - a^n * a^m = a^(n+m)
    - If the exponents are equal, the bases can be multiplied.
      - a^n * b^n = (a * b)^n   
@@ -154,10 +154,11 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
      - √(x)
    - A square root to the power of 2 will cancel each other out.
      - √(x)^2 = x
-   - Da kvadratroden kan omskrives til en gælder potensreglerne også.
-   - En eksponent på 0,5 svare til kvadratroden af samme tal.
+   - As the square root can be rewritten to one, the exponent rules 
+     apply as well.
+   - An exponent of 0.5 equals the square root of the same number.
    - √a = a^{1/2}, a > 0
-** Roden af en potens
+** Root of an exponent
    - Hvis rodeksponenten og eksponent er ens, så får man samme resultat.
    - Hvis rodeksponenten og eksponent er forskellige, kan man lave roden
      om til en potens.
