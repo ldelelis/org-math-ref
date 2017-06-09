@@ -2,7 +2,7 @@
 These are my math notes written in Emacs' org-mode.
 
 Feel free to contribute with any language supported by pandoc. 
-There is boud to be spelling mistakes, so feel free to correct them.
+There is bound to be spelling mistakes, so feel free to correct them.
 
 * Todo
   - Add a script that converts all files into a LaTeX pdf using pandoc.
