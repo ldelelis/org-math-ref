@@ -14,8 +14,11 @@
 *** Discriminant
     - Def: Solution by using finding the discriminant.
     - The discriminant is represented as /D/ or delta.
-    - Δ = b^2 - 4ac
-    - x = (-b ± √Δ) / (2a)
+    - \Delta = b^2 - 4ac
+    - x = (-b ± √\Delta) / (2a)
+    - If \Delta > 0, the equation has to solutions.
+    - If \Delta = 0, the equation has 1 solution.
+    - If \Delta < 0, the equation is unsolvable.
 ** System of equations (Simultaneous equations)
    - Def: A finite set of equations, that share common solutions.
 *** Substitution
