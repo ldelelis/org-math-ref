@@ -1,6 +1,6 @@
 * Empty set
   - Def: A set with no values
-    - Symbol: ∅
+    - Symbol: \emptyset
 * Set-builder notation
   - Def: Notation for describing sets.
   - A set is contained with curly brackets.
@@ -12,7 +12,7 @@
   - Def: A set of real numbers whereas all numbers between the 2 are
     included.
   - For closed intervals square brackets are used.
-    - [a, b] = {x ∈ ℝ | a ≤ x ≤ b}
+    - [a, b] = {x \in *R* | a ≤ x ≤ b}
   - An open interval is notated by parentheses.
-    - (a, b) = {x ∈ ℝ | a < x < b}
+    - (a, b) = {x \in *R* | a < x < b}
   - The brackets can be mixed and matched.
