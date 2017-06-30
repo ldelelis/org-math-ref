@@ -10,4 +10,4 @@
    - Addition and subtraction is legal.
    - Multiplication and division with a positive number is defined.
      - If the factor or divisor is negative, the inequality sign must
-       be reverted.
+       be inverted.
