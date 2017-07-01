@@ -35,10 +35,6 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
    - Non-commutative
 * Parentheses
   - The first priority in the hierarchy.
-** Gange ind i parantes
-   - Man bruger den distributive lov // TODO Skal researches nærmere.
-   - Multiply each term in the parentheses.
-     - a(b + c) = ab + ac
 ** Multiply 2 parentheses
    - Each number in the first, is multiplied into the other.
      - (a + b)(c + d) = ac + ad + bc + bd
@@ -163,7 +159,8 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
    - Hvis rodeksponenten og eksponent er forskellige, kan man lave roden
      om til en potens.
    - root(a^p, q) = a^{p/q}
-** Regneregler for rødder
+** Rules
+   - If you divide or multiply, 
    - Hvis man dividere eller multiplikere, kan man finde roden før man
      udfører operationen.
      - root(a * b, n) = root(a, n) * root(b, n)
