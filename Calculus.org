@@ -9,8 +9,8 @@
   - Differentiability :: All points of a functions domain is
        differentiable.
 ** Difference quotient
-   - Def :: Calculates the slope of a secant line.
-   - a_s = \frac(f(x + h) - f(x))/h
+   - Def: Calculates the slope of a secant line.
+   - a_s = \(\frac{f(x + h) - f(x)}{h}\)
    - Alt. notation: \Delta{}y/h
 ** Derirative
    - Def: The slope of a tangent.
