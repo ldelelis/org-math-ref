@@ -1,5 +1,5 @@
 * org-math-ref
-These are my math notes written in Emacs' org-mode.
+I aim this to be documentation, that is short and precise, for various mathematical topics. Rather than having blocks of text, the information is provided with bulletpoints.
 
 Feel free to contribute with any language supported by pandoc. 
 There is bound to be spelling mistakes, so feel free to correct them.
