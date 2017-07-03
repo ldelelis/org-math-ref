@@ -155,9 +155,10 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
    - An exponent of 0.5 equals the square root of the same number.
    - √a = a^{1/2}, a > 0
 ** Root of an exponent
-   - Hvis rodeksponenten og eksponent er ens, så får man samme resultat.
-   - Hvis rodeksponenten og eksponent er forskellige, kan man lave roden
-     om til en potens.
+   - If the degree and the exponent are equal, it will yield in
+     the same result.
+   - If the degree and the exponent are different, you can convert the
+     root to an exponent.
    - root(a^p, q) = a^{p/q}
 ** Rules
    - If it's a division or multiplication, it's possible to find the
