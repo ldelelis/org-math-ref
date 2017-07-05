@@ -1,8 +1,26 @@
 * org-math-ref
-I aim this to be documentation, that is short and precise, for various mathematical topics. Rather than having blocks of text, the information is provided with bulletpoints.
+** Goal
+I hope to summarize a wide variety of mathematical subjects, while
+keeping text to a minimal. Think programming documentation or a handbook
+for math. If you look at programming documentation, there'll be short
+descriptions of how to use functions. In the same way, I'd like to
+provide short descriptions, on how to use methods for solving simpler
+problems, such as solving a quadratic equation.
 
-Feel free to contribute with any language supported by pandoc. 
-There is bound to be spelling mistakes, so feel free to correct them.
+The project is mainly targeted at Emacs users, due to the format
+org-mode. I hope to provide Emacs users the ability to look up
+mathematical concepts within Emacs. I'd also like to work with other
+formats so far powered by pandoc.
+
+** Current status
+The current quality is pretty low. I don't have spellchecking enabled
+for Emacs, so there's most likely a bunch of spelling errors. I am
+also in
+[[https://en.wikipedia.org/wiki/Gymnasium_(Denmark)[gymnasium]],
+meaning that the current content is not on an advanced level. If you
+study at university, you may not find anything useful. On another
+note, I am still schooled for 6 years and I hope to be actively
+improving the content.
 
 * Todo
   - Add a script that converts all files into a LaTeX pdf using pandoc.
