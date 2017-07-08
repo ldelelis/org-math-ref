@@ -1,0 +1,3 @@
+* Direct proportionality
+  - Def: As one amount increases, a second amount increases at the same rate.
+  - Symbol: \prop, y \prop x
