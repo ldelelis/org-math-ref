@@ -10,13 +10,6 @@
 ** Range
    - Def: Set of all valid outputs.
    - Related to: Naive set theory.
-** Extrema
-*** Maxima
-    - Relative maximum :: 
-    - Global maximum ::
-*** Minima
-    - Relative minimum ::
-    - Global minimum :: 	 
 ** Average rate of change
   - Def: The average rate of change between 2 points.
     - Δy / Δx

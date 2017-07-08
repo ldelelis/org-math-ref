@@ -1,0 +1,7 @@
+** Extrema
+*** Maxima
+    - Relative maximum :: 
+    - Global maximum ::
+*** Minima
+    - Relative minimum :: 
+    - Global minimum :: 
