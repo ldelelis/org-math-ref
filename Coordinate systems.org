@@ -1,0 +1,5 @@
+* Cartesian coordinate system
+  - A coordinate system that specifies its points by a pair of
+    numerical coordinates, which lines are perpendicular and measured
+    in the same unit of length.
+  - Origin :: The center of the coordinate system.
