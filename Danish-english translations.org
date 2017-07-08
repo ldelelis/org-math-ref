@@ -29,3 +29,4 @@
   - Tæller :: Numerator
   - Vendepunkt :: Point of inflection
     - Danish synonym: infleksionspunkt
+  - Origo :: Origin
