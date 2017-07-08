@@ -4,12 +4,27 @@
   - On a graph f(x) is equal to y.
   - Dependent variable :: Dependent on the independent variable (input).
   - Independent variable :: Independent of the dependent variable (output).
+
+** Linear function
+   - In calculus (and relatd): A polynomial function of degree 0 or 1.
+     - y = ax + b
+   - If /a/ > 1, the line grows.
+   - If /a/ = 1, the line is constant.
+   - If /a/ < 1, the line declines.
+   - If /b/ intercepts at 0, the function is written: y = ax.
+     - a \prop x
+   - Slope :: Variable /a/.
+   - y-intercept :: Variable /b/.
+   - In linear and functional analysis: a linear function is a linear map. :todo:
+
 ** Domain
    - Def: Set of all defined inputs.
    - Related to: Naive set theory.
+
 ** Range
    - Def: Set of all valid outputs.
    - Related to: Naive set theory.
+
 ** Average rate of change
   - Def: The average rate of change between 2 points.
     - Δy / Δx
