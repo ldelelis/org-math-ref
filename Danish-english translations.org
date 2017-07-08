@@ -12,12 +12,14 @@
   - Irrationale tal :: Irrational numbers
   - Kvadratsætningerne :: Binomial theorem
   - Lige og ulige tal :: Parity
+  - Lineær funktion :: Linear function
   - Minuend :: Minuend
   - Multiplikation :: Multiplication
   - Mængdebygning :: Set-builder notation
   - Naturlige tal :: Natural numbers
   - Nulreglen :: Zero-product property
   - Nævner :: Denominator
+  - Origo :: Origin
   - Parantes :: Parenthesis
   - Potens :: Exponentiation
   - Radikan :: Radicand
@@ -29,4 +31,3 @@
   - Tæller :: Numerator
   - Vendepunkt :: Point of inflection
     - Danish synonym: infleksionspunkt
-  - Origo :: Origin
