@@ -16,7 +16,7 @@ formats so far powered by pandoc.
 The current quality is pretty low. I don't have spellchecking enabled
 for Emacs, so there's most likely a bunch of spelling errors. I am
 also in
-[[https://en.wikipedia.org/wiki/Gymnasium_(Denmark)[gymnasium]],
+[[https://en.wikipedia.org/wiki/Gymnasium_(Denmark)][gymnasium]],
 meaning that the current content is not on an advanced level. If you
 study at university, you may not find anything useful. On another
 note, I am still schooled for 6 years and I hope to be actively
