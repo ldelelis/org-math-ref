@@ -13,6 +13,8 @@
    - If /a/ < 1, the line declines.
    - If /b/ intercepts at 0, the function is written: y = ax.
      - a \prop x
+   - a = (y_2 - y_1) / (x_2 - x_1)
+   - b = y - ax
    - Slope :: Variable /a/.
    - y-intercept :: Variable /b/.
    - In linear and functional analysis: a linear function is a linear map. :todo:
