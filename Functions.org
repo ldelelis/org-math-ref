@@ -29,4 +29,4 @@
 
 ** Average rate of change
   - Def: The average rate of change between 2 points.
-    - Δy / Δx
+    - \Delta{}y / \Delta{}x
