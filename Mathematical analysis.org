@@ -1,4 +1,5 @@
 ** Extrema
+   - Plural of extremum.
 *** Maxima
     - Relative maximum :: 
     - Global maximum ::
