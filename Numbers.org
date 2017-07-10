@@ -15,7 +15,7 @@
   - Def: Any number that can be expressed as a quotient or fraction of
     2 integers..
   - Symbols: *Q*
-  - The deniminator can't be 0.
+  - The denominator can't be 0.
 
 * Irrational numbers
   - Def: A number that can't be as a fraction containing 2 integers.

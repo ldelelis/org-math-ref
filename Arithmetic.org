@@ -6,7 +6,7 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
    - Add :: Put together 2 or more numbers to calculate a sum.
    - Sum :: The result of an addition.
    - Addend :: A number which is added to another.
-   - Term :: A number/expression seperated by a + or -.
+   - Term :: A number/expression separated by a + or -.
 *** Properties
     - Commutative
 ** Subtraction
@@ -15,14 +15,14 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
    - Difference :: The result of a subtraction.
    - Minuend :: A number which is to be subtracted.
    - Subtrahend :: A number to be subtracted from another.
-   - Term :: A number/expression seperated by a + or -.
+   - Term :: A number/expression separated by a + or -.
 *** Properties
     - Non-commutative
 ** Multiplication
    - Def: The addition of a number to itself
    - Minus times minus is plus
    - Product :: The result of a multiplication.
-   - Faktor :: A number that participates in a multiplication.
+   - Factor :: A number that participates in a multiplication.
 *** Properties
     - Commutative
 ** Division
@@ -58,7 +58,7 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
   - Danish mnemonic: Top = Tæller, Nederst = Nævner
   - The bigger the numerator, the lower the quotient.
     - m > n, 1/m < 1/n
-  - If the numerator and denominator are idential, the quotient is 1.
+  - If the numerator and denominator are identical, the quotient is 1.
   - Numerator :: The number above the line.
   - Denominator :: The number below the line.
   - Quotient :: The result of a division or fraction.
@@ -138,8 +138,8 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
      - nroot(a, n)
    - A root with a degree of 2 is called a square root.
    - A root with a degree of 3 is known as a cube root.
-   - Roots with a higher degree are reffered by ordinal numbers.
-   - Exponentation is the opposite of roots.
+   - Roots with a higher degree are referred by ordinal numbers.
+   - Exponentiation is the opposite of roots.
    - nroot(a, n) = a^{1/n}
    - Radical :: The number having its root taken.
    - Degree :: The exponent for a root.
@@ -171,7 +171,7 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
 * Properties of arithmetic
 ** Commutative
    - Def: An operation is commutative if order is irrelevant.
-   - Noncommutative operation :: If order is relevant..
+   - Non-commutative operation :: If order is relevant..
 ** Associative
    - Def: A group of quantities yield the same result regardless of
      their grouping.

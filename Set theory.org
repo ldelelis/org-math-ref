@@ -1,13 +1,16 @@
 * Empty set
   - Def: A set with no values
     - Symbol: \emptyset
+
 * Set-builder notation
   - Def: Notation for describing sets.
   - A set is contained with curly brackets.
+
 ** Sets containing a predicate
    - Def: A set that contains a predicate, which can be called the
      rule.
-   - The variable and rule is seperated by a vertical bar or colon.
+   - The variable and rule is separated by a vertical bar or colon.
+
 * Intervals
   - Def: A set of real numbers whereas all numbers between the 2 are
     included.
