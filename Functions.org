@@ -17,8 +17,14 @@
    - b = y - ax
    - Slope :: Variable /a/.
    - y-intercept :: Variable /b/.
-   - In linear and functional analysis: a linear function is a linear map. :todo:
-
+   - In linear and functional analysis: a linear function is a linear map. // TODO linear map
+** Exponential growth
+   - Def: A function with a time value as its exponent.
+     - x(t) = a * b^{t/\tau}
+     - \tau is the time constant.
+     - If \tau > 0 and b > 1, /x/ has exponential growth.
+     - If \tau < 0 and b > 1, or \tau > 0 and 0 < b < 1, then /x/ has
+       exponential decay.
 ** Domain
    - Def: Set of all defined inputs.
    - Related to: Naive set theory.
