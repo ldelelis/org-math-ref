@@ -6,7 +6,7 @@
   - Independent variable :: Independent of the dependent variable (output).
 
 ** Linear function
-   - In calculus (and relatd): A polynomial function of degree 0 or 1.
+   - In calculus (and related): A polynomial function of degree 0 or 1.
      - y = ax + b
    - If /a/ > 1, the line grows.
    - If /a/ = 1, the line is constant.
