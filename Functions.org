@@ -39,6 +39,13 @@
       size.
     - T_2 = log(2)/log(a)
     - T_{1/2} = log(1/2)/log(a)
+
+** Power function
+   - Def: 
+     - f(x) = b * x^a
+   - /a/ changes the appearance of the function. // TODO bett. explan.
+   - /b/ is the y value when x is 1.
+
 ** Domain
    - Def: Set of all defined inputs.
    - Related to: Naive set theory.
