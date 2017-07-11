@@ -46,6 +46,16 @@
    - /a/ changes the appearance of the function. // TODO bett. explan.
    - /b/ is the y value when x is 1.
 
+** Differences between exponential functions and power functions
+   - Exponential and power functions can look similar, but there are
+     differences.
+   - A exponentially growing function will start in (0,b).
+   - A power function will never intercept the y-axis.
+   - A power function will be a straight line in a logarithmic
+     coordinate system.
+   - A exponential function will be a straight line in a log-log
+     coordinate system.
+
 ** Domain
    - Def: Set of all defined inputs.
    - Related to: Naive set theory.
