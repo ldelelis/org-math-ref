@@ -19,7 +19,9 @@
    - b = y - ax
    - Slope :: Variable /a/.
    - y-intercept :: Variable /b/.
-   - In linear and functional analysis: a linear function is a linear map. // TODO linear map
+   - In linear and functional analysis: a linear function is a linear
+     map. // TODO linear map
+
 ** Exponential growth
    - Def: A function with a time value as its exponent.
      - x(t) = a * b^{t/\tau}
