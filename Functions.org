@@ -34,6 +34,11 @@
     - a = nroot(y_2 / y_1, x_2 - x_1)
     - b = y/a^x
 
+*** Doubling time and half life
+    - Def: The time required for a quantity to double or halve in
+      size.
+    - T_2 = log(2)/log(a)
+    - T_{1/2} = log(1/2)/log(a)
 ** Domain
    - Def: Set of all defined inputs.
    - Related to: Naive set theory.
