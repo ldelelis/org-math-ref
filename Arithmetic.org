@@ -159,15 +159,15 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
      the same result.
    - If the degree and the exponent are different, you can convert the
      root to an exponent.
-   - root(a^p, q) = a^{p/q}
+   - nroot(a^p, q) = a^{p/q}
 ** Rules
    - If it's a division or multiplication, it's possible to find the
      root, before the operation.
-     - root(a * b, n) = root(a, n) * root(b, n)
-     - root(a/b, n) = root(a, n)/root(b, n)
+     - nroot(a * b, n) = nroot(a, n) * nroot(b, n)
+     - nroot(a/b, n) = nroot(a, n)/nroot(b, n)
    - If a fraction with the denominator, /n/, is an exponent, it can
      be turned into a fraction.
-     - a^{-1/n} = 1/root(a, n)
+     - a^{-1/n} = 1/nroot(a, n)
 * Properties of arithmetic
 ** Commutative
    - Def: An operation is commutative if order is irrelevant.
