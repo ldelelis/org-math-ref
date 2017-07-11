@@ -19,8 +19,9 @@
     - If \Delta > 0, the equation has to solutions.
     - If \Delta = 0, the equation has 1 solution.
     - If \Delta < 0, the equation is unsolvable.
-** System of equations (Simultaneous equations)
+** System of equations
    - Def: A finite set of equations, that share common solutions.
+   - Synonym: Simultaneous equations
 *** Substitution
     - Def: Isolate one of the variables and substitute it in another
       equation.
