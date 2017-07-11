@@ -1,4 +1,4 @@
-* Danish-english translations
+* Danish-English translations
   - Addend :: Addend
   - Addition :: Addition
   - Andengradspolynomium :: Quadratic equation
