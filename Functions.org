@@ -2,8 +2,10 @@
   - Def: An object that takes an input and gives an output.
     - f(x) = <expression>
   - On a graph f(x) is equal to y.
-  - Dependent variable :: Dependent on the independent variable (input).
-  - Independent variable :: Independent of the dependent variable (output).
+  - Dependent variable :: Dependent on the independent variable
+       (input).
+  - Independent variable :: Independent of the dependent variable
+       (output).
 
 ** Linear function
    - In calculus (and related): A polynomial function of degree 0 or 1.
