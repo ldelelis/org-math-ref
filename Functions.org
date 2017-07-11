@@ -30,6 +30,10 @@
    - If a > 1, then /f/ has exponential growth.
    - If 0 < a < 1, then /f/ has exponential decay.
 
+*** Calculate a and b from 2 coordinates
+    - a = nroot(y_2 / y_1, x_2 - x_1)
+    - b = y/a^x
+
 ** Domain
    - Def: Set of all defined inputs.
    - Related to: Naive set theory.
