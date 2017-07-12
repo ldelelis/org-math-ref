@@ -60,6 +60,35 @@
    - A exponential function will be a straight line in a log-log
      coordinate system.
 
+** Logarithms
+   - Def: The logarithm of a positive real number /x/ respecting base /b/ (b \neq 1), is
+     the exponent that /b/ must be raised to result in /x/.
+     - b^y = x
+     - log_b(x) = y
+   - Logarithms are the opposite of exponentiation.
+
+*** Common logarithm
+    - Def: A logarithm with a base of 10.
+      - lg(10^x) = x
+      - 10^{lg(x)} = x
+    - Alt. notations: log(x), log_10(x)
+
+*** Natural logarithm
+    - Def: A logarithm with a base of Euler's number /e/.
+      - ln(e^x) = x
+      - e^{^ln(x)} = x
+    - Alt. notations: log(x)
+
+*** Binary logarithm
+    - A logarithm with a base of 2.
+      - lb(x)
+    - Alt. notations: ld(x), log(x), lg(x), log_2(x)
+
+*** Rules
+    - log_b(xy) = log_b(x) + log_b(y)
+    - log_b(x/y) = log_b(x) - log_b(y)
+    - log_b(x^y) = y * log_b(x)
+
 ** Domain
    - Def: Set of all defined inputs.
    - Related to: Naive set theory.
