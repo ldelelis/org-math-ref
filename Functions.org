@@ -47,6 +47,9 @@
    - /b/ is the y value when x is 1.
    - x = nroot(y/b, a)
 
+*** Calculate a and b
+    - a = (log(y_2) - log(y_1)) / (log(x_2) - log(x_1))
+    - b = y/x^a
 ** Differences between exponential functions and power functions
    - Exponential and power functions can look similar, but there are
      differences.
