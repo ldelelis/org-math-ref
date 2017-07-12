@@ -90,7 +90,7 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
 * Exponentiation
   - Def: The act of raising a quantity to the power of another.
     - b^n
-  - Roots are the opposite of exponentiation.
+  - Logarithms are the opposite of exponentiation.
   - Base :: The number that is multiplied by itself.
   - Exponent :: The quantity that represents the power to which a
                 given number or expression is to be raised.
@@ -139,7 +139,6 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
    - A root with a degree of 2 is called a square root.
    - A root with a degree of 3 is known as a cube root.
    - Roots with a higher degree are referred by ordinal numbers.
-   - Exponentiation is the opposite of roots.
    - nroot(a, n) = a^{1/n}
    - Radical :: The number having its root taken.
    - Degree :: The exponent for a root.
