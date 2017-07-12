@@ -4,7 +4,7 @@
   - Andengradspolynomium :: Quadratic equation
   - Brøk :: Fraction
   - Differenskvotient :: Difference quotient
-  - Differentialkvotien :: Derirative
+  - Differentialkvotien :: Derivative
   - Dividend :: Dividend
   - Division :: Division
   - Eksponentiel vækst :: Exponential growth
