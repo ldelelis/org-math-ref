@@ -1,0 +1,18 @@
+* Angles
+  - Def: The space between 2 lines measured in degrees.
+  - Symbol: \deg
+
+** Notation
+   - Greek letters, except for \pi.
+   - For polygons lower case roman letters can be used.
+   - An angle /A/ between 2 lines AB and AC can be denoted \angle{}BAC.
+
+** Types of angles
+   - Acute angle :: > 90\deg.
+   - Right angle :: = 90\deg.
+   - Obtuse angle :: 90\deg - 180\deg.
+   - Straight angle :: = 180\deg.
+   - Reflex angle :: 180\deg - 360\deg.
+   - Full angle :: = 360\deg.
+     - Synonyms: Complete angle, perigon.
+   - Oblique angle ::
