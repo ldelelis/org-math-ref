@@ -25,7 +25,7 @@
 ** Exponential growth
    - Def: A function with a time value as its exponent.
      - f(x) = b * a^x
-   - /a/ 
+   - /a/
    - /b/ is the start value.
    - If a > 1, then /f/ has exponential growth.
    - If 0 < a < 1, then /f/ has exponential decay.
@@ -41,7 +41,7 @@
     - T_{1/2} = log(1/2)/log(a)
 
 ** Power function
-   - Def: 
+   - Def: A function which associates a value to an exponential power.
      - f(x) = b * x^a
    - /a/ changes the appearance of the function. // TODO bett. explan.
    - /b/ is the y value when x is 1.
