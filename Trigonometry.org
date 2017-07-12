@@ -1,0 +1,5 @@
+* Triangles
+  - Def: A polygon with 3 edges and 3 vertices.
+  - Notation: \triangle{}ABC
+  - Angle notation: \angle{}A
+  - Angle sum is 180\deg.
