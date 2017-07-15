@@ -3,3 +3,48 @@
   - Notation: \triangle{}ABC
   - Angle notation: \angle{}A
   - Angle sum is 180\deg.
+  - T = 1/2bh
+  - Equiangular triangles :: Triangles that share the same size of
+       angles.
+
+** Equilateral triangle
+   - Def: A triangle where all 3 sides are equal.
+   - All angles are 60\deg.
+
+** Isosceles triangle
+   - Def: 2 of the sides are equal.
+   - Legs :: The 2 equal sides.
+   - Base :: The 3rd side.
+   - The angle of the legs share the same size.
+
+** Right triangle
+   - Def: A triangle with an angle of 90\deg.
+   - Pythagorean's theorem is defined for right triangles.
+     - a^2 + b^2 = c^2
+   - Hypotenuse :: The side opposite the right angle.
+   - Cathesus :: One of the adjacent sides to the right angle.
+     - Plural: Catheti
+     - Synonym: Leg
+   - Adjacent cathesus :: The side adjacent to a given angle.
+   - Opposite cathesus :: The side opposite to a given angle.
+
+** Trigonometric functions
+   - Def: Functions that relate the angles to the length of the sides.
+   - The unit circle can be used to define cosine, sine and tangent.
+
+*** Sine
+    - Def: The ratio between the length of the opposite and
+      hypotenuse.
+      - sin(\alpha) = opposite/hypotenuse
+
+*** Cosine
+    - Def: The ratio between the length of the adjacent and
+      hypotenuse.
+      - cos(\alpha) = adjacent/hypotenuse
+
+*** Tangent
+    - The ratio between the length of the opposite and adjacent.
+      - tan(\alpha) = opposite/adjacent
+      - tan(\alpha) = sin(\alpha)/cos(\alpha)
+    - Angles that make cosine yield 0, are non-defined, since it's the
+      denominator.
