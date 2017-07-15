@@ -8,11 +8,14 @@
   - Dividend :: Dividend
   - Division :: Division
   - Eksponentiel vækst :: Exponential growth
+  - Ensvinklet :: Equiangular
   - Faktor :: Factor
   - Heltal :: Integers
   - Irrationale tal :: Irrational numbers
   - Kvadratsætningerne :: Binomial theorem
   - Lige og ulige tal :: Parity
+  - Ligebenet :: Isosceles
+  - Ligesidet :: Equilateral
   - Lineær funktion :: Linear function
   - Minuend :: Minuend
   - Multiplikation :: Multiplication
