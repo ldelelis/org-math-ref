@@ -65,19 +65,8 @@
      8. y = 5/2
 *** Cramer's rule
     - Def: Solves an equation by dividing determinants of 2 matrices.
-**** Method
-     1. Multiply the first coefficient of the first equation by the
-        second equation.
-     2. Do the same, but the first coefficient of the 2nd equation.
-     3. Put both right sides against each other.
-     4. Isolate both expressions that contain a y.
-     5. Factor y.
-     6. Divide the parentheses, to solve for y.
-     7. Do the same for x, but multiply with the second coefficient.
-     8. Find the determinant of the equations.
-     9. Find it again, but solved for x.
-     10. Find it a 3rd time, but solved for y.
-     11. Divide the determinant of x and y with the base determinant.
+    - x = det(D_x) / det(D)
+    - y = det(D_y) / det(D)
 *** Gaussian elimination
     - Def: A method that utilizes matrix elementary row operations.
     - Aka row reduction.
