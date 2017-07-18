@@ -1,6 +1,7 @@
 * Equations
   - Def: An equality between 2 expressions containing variables.
-  - Solving an equation means finding the value(s) of the variable(s).   
+  - Solving an equation means finding the value(s) of the variable(s).
+
 ** Quadratic equation
    - Def: Any equation given the form: ax^2 + bx + c = 0.
    - /a/, /b/ and /c/ are the coefficients.
@@ -10,6 +11,7 @@
    - Linear coefficient :: Variable b.
    - Constant :: Variable c.
      - Synonym: Free term.
+
 *** Discriminant
     - Def: Solution by using the discriminant.
     - The discriminant is represented as /D/ or \Delta.
@@ -18,6 +20,7 @@
     - If \Delta > 0, the equation has to solutions.
     - If \Delta = 0, the equation has 1 solution.
     - If \Delta < 0, the equation is unsolvable.
+
 *** Completing the square
     - Def: In context of quadratic equations, it's a way to solve them
       using a simple binomial theorem.
@@ -28,31 +31,38 @@
     - When a = 1: x^2 + bx + c = (x - h)^2 + k
       - h = -b/2
       - k = c - b^2/4
+
 ** System of equations
    - Def: A finite set of equations, that share common solutions.
    - Synonym: Simultaneous equations
+
 *** Substitution
     - Def: Isolate one of the variables and substitute it in another
       equation.
+
 **** Method
      1. Solve an equation for a variable.
      2. Substitute the solved variable with the expression.
      3. Repeat until all variables have been found.
+
 **** Example
      1. ax + by = c
 	dx + ey = f
      2. x = -(by - c)/a // Solved for x
      3. d(-(by - c)/a) + ey = f // x has been substituted
      4. y = (cd - af)/(bd - ae) // Solved for y
+
 *** Addition / Elimination
     - Def: Make one of the coefficients equal in both equations, to
       add or subtract them.
+
 **** Method
      1. Make one of the coefficients for all equations equal. Multiply
-        if needed.
+	if needed.
      2. Add or subtract the equations.
      3. Solve the equation for the remaining variable.
      4. Insert the value in one of the equations and solve it.
+
 **** Example
      1. 2x + 4y = 20
 	5x + 2y = 30
@@ -63,10 +73,12 @@
      6. 2 * 5 + 4y = 20
      7. 4y = 10
      8. y = 5/2
+
 *** Cramer's rule
     - Def: Solves an equation by dividing determinants of 2 matrices.
     - x = det(D_x) / det(D)
     - y = det(D_y) / det(D)
+
 *** Gaussian elimination
     - Def: A method that utilizes matrix elementary row operations.
     - Aka row reduction.

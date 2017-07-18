@@ -1,8 +1,10 @@
 ** Extrema
    - Plural of extremum.
+
 *** Maxima
-    - Relative maximum :: 
+    - Relative maximum ::
     - Global maximum ::
+
 *** Minima
-    - Relative minimum :: 
-    - Global minimum :: 
+    - Relative minimum ::
+    - Global minimum ::

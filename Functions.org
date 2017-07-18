@@ -25,7 +25,7 @@
 ** Exponential growth
    - Def: A function with a time value as its exponent.
      - f(x) = b * a^x
-   - /a/
+   - /a/ // TODO describe /a/
    - /b/ is the start value.
    - If a > 1, then /f/ has exponential growth.
    - If 0 < a < 1, then /f/ has exponential decay.
@@ -50,6 +50,7 @@
 *** Calculate a and b
     - a = (log(y_2) - log(y_1)) / (log(x_2) - log(x_1))
     - b = y/x^a
+
 ** Differences between exponential functions and power functions
    - Exponential and power functions can look similar, but there are
      differences.

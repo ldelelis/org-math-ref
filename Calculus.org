@@ -8,24 +8,27 @@
   - Continuity :: A function that can be drawn without lifting a pen.
   - Differentiability :: All points of a functions domain is
        differentiable.
+
 ** Difference quotient
    - Def: Calculates the slope of a secant line.
    - a_s = \(\frac{f(x + h) - f(x)}{h}\)
    - Alt. notation: \Delta{}y/h
+
 ** Derivative
    - Def: The slope of a tangent.
      - a_t = lim_{x->0}(\Delta{}y/h)
    - Alt. notation: lim_{x->0}(a_s)
+
 *** Derivative rules
     - Sum rule :: Method for finding the derivative of a sum of 2
-                  functions.
+		  functions.
       - f'(x) = g'(x) ± h'(x)
       - Leibniz notation: d/dx(u + v) = du/dx + dv/dx
     - Constant rule :: A function multiplied by a constant.
       - f'(x) = cg'(x)
       - Leibniz notation: (d/dx)(c) = 0
     - Product rule :: Calculate the derivative of a product of 2
-                      functions.
+		      functions.
       - f'(x) = g'(x)h(x) + g(x)h(x)
       - Leibniz notation: (d/dx)(u * v) = u(dv/dx) + v(du/dx)
     - Chain rule ::
@@ -33,14 +36,18 @@
     - Quotient rule :: Method for calculating the derivative of a ratio
       between 2 functions.
       - f(x) = (g'(x)h(x) - g(x)h'(x)) / h(x)^2
+
 ** Three-step rule
    - Def: A systematic method for finding the derivative.
+
 *** Method
     1. Find \Delta{}y
     2. Divide \Delta{}y by h to obtain the difference quotient.
     3. Calculate the limit of the difference quotient if it exists.
+
 ** Equation of a tangent
    - y = f(x_0) + f'(x_0)(x - x_0)
+
 ** Monotonic Function
    - f'(x) > 0 \forall{}x \in [a, b] \rArr f increases
    - f'(x) < 0 \forall{}x \in [a, b] \rArr f decreases
@@ -51,12 +58,15 @@
      inflection.
    - To see if the function de- or increases, a number inside and
      outside the interval can be used as input for the derivative.
+
 ** Optimization
-   - Def: 
+   - Def:
+
 * Integral
-  - Def: 
+  - Def:
     - \int_a^{b}f(x)dx = F(x)
   - The opposite of differential.
+
 ** Rules
    - Sum rule: \int{}f(x) \pm g(x)dx = \int{}f(x)dx \pm \int{}g(x)dx
    - Product w/ constant rule: \int{}c * f(x)dx = c * \int{}f(x)dx

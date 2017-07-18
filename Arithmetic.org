@@ -1,14 +1,17 @@
 Arithmetic is a branch of number theory. Can't be said with certainty.
 
 * Basic operations
+
 ** Addition
    - Def: The act of adding a number to another.
    - Add :: Put together 2 or more numbers to calculate a sum.
    - Sum :: The result of an addition.
    - Addend :: A number which is added to another.
    - Term :: A number/expression separated by a + or -.
+
 *** Properties
     - Commutative
+
 ** Subtraction
    - Def: The act of taking a number from another.
    - Subtract :: Take away a number from another
@@ -16,34 +19,44 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
    - Minuend :: A number which is to be subtracted.
    - Subtrahend :: A number to be subtracted from another.
    - Term :: A number/expression separated by a + or -.
+
 *** Properties
     - Non-commutative
+
 ** Multiplication
    - Def: The addition of a number to itself
    - Minus times minus is plus
    - Product :: The result of a multiplication.
    - Factor :: A number that participates in a multiplication.
+
 *** Properties
     - Commutative
+
 ** Division
    - Def: The act of dividing a number.
    - Divide :: Calculate how many times a number contains another.
    - Dividend :: A number to be divided by another.
    - Divisor :: A number by which another number is divided
    - Quotient :: The result of a division or fraction.
+
 *** Properties
    - Non-commutative
+
 * Parentheses
   - The first priority in the hierarchy.
+
 ** Multiply 2 parentheses
    - Each number in the first, is multiplied into the other.
      - (a + b)(c + d) = ac + ad + bc + bd
+
 ** Factorization
    - Def: The act of turning an object into factors
    - You can make 2 terms into a factor.
+
 ** Terms and parentheses
    - Parentheses containing addends can just be evaluated.
    - If they contain a minus, change the sign of every term.
+
 * Binomial theorem
   - Def: Describes the expansion of powers of a binomial.
 
@@ -52,6 +65,7 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
   - (a + b)² = a² + b² + 2ab
   - (a - b)² = a² + b² - 2ab
   - (a + b)(a - b) = a² - b²
+
 * Fraction
   - Def: A representation of a non-whole number.
   - The denominator can't be 0.
@@ -63,17 +77,20 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
   - Denominator :: The number below the line.
   - Quotient :: The result of a division or fraction.
   - Unit fraction :: Fraction with a numerator of 1.
+
 ** Addition and subtraction
    - To add, add both numerators.
    - To subtract, subtract both numerators.
    - Both fractions needs to have a common denominator.
    - a/c ± b/c = (a ± b)/c
+
 ** Multiplication
    - 2 fractions: Multiply the numerators and denominators
      respectively.
      - a/b * c/d = ac/bd
    - Fraction and number: Multiply the number with the numerator.
      - a * b/c = ab/c
+
 ** Division
    - 2 fractions: Multiply with the reciprocal fraction.
      - a/b / c/d = a/b * d/c
@@ -83,42 +100,50 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
      - If a division of the numerator and number has a remainder of 0,
        it's also legal.
        - a/b / c = a/c/b, a mod c = 0
+
 ** Reduction and expansion
    - Reduction: Divide the numerator and denominator with the greatest
      common divisor.
    - Expansion: Multiply the numerator and denominator with a factor.
+
 * Exponentiation
   - Def: The act of raising a quantity to the power of another.
     - b^n
   - Logarithms are the opposite of exponentiation.
   - Base :: The number that is multiplied by itself.
   - Exponent :: The quantity that represents the power to which a
-                given number or expression is to be raised.
+		given number or expression is to be raised.
   - Power :: The result of an exponentiation.
+
 ** Multiplication
    - If the bases are equal, the exponents can be added.
      - a^n * a^m = a^(n+m)
    - If the exponents are equal, the bases can be multiplied.
-     - a^n * b^n = (a * b)^n   
+     - a^n * b^n = (a * b)^n
+
 ** Division
    - If the bases are equal, the exponents can be subtracted.
      - a^m/a^n = a^m-n
    - If the exponents are equal, the bases can be divided.
      - a^n/b^n = (a/b)^n
+
 ** Power of a power
    - You multiply the exponents.
      - (a^n)^m = a^{n*m}
+
 ** Exponent of 0 or 1
    - If the exponent is 1, the power is the base.
      - x^1 = x
    - If the exponent is 0, the power is 1.
      - a^0 = 1
+
 ** Negative exponents
    - If the exponent is negative, the power can be turned into a
      fraction, where the exponent is positive.
      - a^n = 1/a^n
    - If the exponent is -1, the denominator is equal to the base.
      - a⁻¹ = 1/a
+
 ** Fractional exponents
    - If the exponent is a unit fraction, it can be converted to an
      nth root.
@@ -126,12 +151,14 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
    - If the exponent is a fraction, it can be converted to an nth
      root to the power of the numerator.
      - x^{m/n} = nroot(x, n)^m
+
 ** Power of 10 (Scientific notation)
    - Def: An integer with an exponent of 10.
    - Def #2: A way of writing a very large/small number.
      - m * 10^n or 10^n
    - The exponent indicates how many zeroes that go after the 1.
    - In programming, spreadsheets and databases E notation is used.
+
 * Roots
    - Def: A quantity multiplied by itself, that gives another
      quantity.
@@ -144,21 +171,24 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
    - Degree :: The exponent for a root.
    - Radix :: The sign used for roots. √.
      - Also called the /radical sign/.
+
 ** Square root
    - Def: A root with a degree of 2.
      - √(x)
    - A square root to the power of 2 will cancel each other out.
      - √(x)^2 = x
-   - As the square root can be rewritten to one, the exponent rules 
+   - As the square root can be rewritten to one, the exponent rules
      apply as well.
    - An exponent of 0.5 equals the square root of the same number.
    - √a = a^{1/2}, a > 0
+
 ** Root of an exponent
    - If the degree and the exponent are equal, it will yield in
      the same result.
    - If the degree and the exponent are different, you can convert the
      root to an exponent.
    - nroot(a^p, q) = a^{p/q}
+
 ** Rules
    - If it's a division or multiplication, it's possible to find the
      root, before the operation.
@@ -167,33 +197,42 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
    - If a fraction with the denominator, /n/, is an exponent, it can
      be turned into a fraction.
      - a^{-1/n} = 1/nroot(a, n)
+
 * Properties of arithmetic
+
 ** Commutative
    - Def: An operation is commutative if order is irrelevant.
    - Non-commutative operation :: If order is relevant..
+
 ** Associative
    - Def: A group of quantities yield the same result regardless of
      their grouping.
+
 ** Distributive
    - Def: Multiplying a sum or difference with a number is the same as
      multiplying the terms.
      - x(y ± z) = xy + xz
+
 * Prime number
   - Def: A number with no other divisors than 1 and itself.
+
 ** Prime number factorization
    - Def: A method for finding the prime factors of a number, by
      dividing with the lowest prime numbers.
    - Tip: Start with the lowest prime numbers.
+
 * Lowest common multiple
   - Def: The lowest quantity that is a multiple of 2 or more
     quantities.
     - lcm(x, y) = z
   - Multiple :: A number divided by another without returning a
-                remainder.
+		remainder.
+
 ** Method
    1. Prime factor the 2 numbers.
    2. The common factors and the rest of the prime factors are multiplied.
    3. The result is the least common multiple.
+
 *** Example
     1. 36 and 120.
     2. The prime factors of 36 are 2^2 * 3^2.
