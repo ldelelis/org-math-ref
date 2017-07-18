@@ -1,0 +1,37 @@
+* Spanish-English translations
+  - Sumando :: Addend
+  - Suma :: Addition
+  - Ecuación Cuadrática :: Quadratic Equation
+  - Fracción :: Fraction
+  - Cociente Diferencial :: Difference quotient
+  - Derivada :: Derivative
+  - Dividendo :: Dividend
+  - División :: Division
+  - Crecimiento Exponencial :: Exponential Growth
+  - Equiangular :: Equiangular
+  - Factor :: Factor
+  - Enteros :: Integers
+  - Numeros Irracionales :: Irrational numbers
+  - Teorema del Binomio :: Binomial theorem
+  - Paridad :: Parity
+  - Isósceles :: Isosceles
+  - Equilátero :: Equilateral
+  - Función Lineal :: Linear function
+  - Minuendo :: Minuend
+  - Multiplicación :: Multiplication
+  - Notación Constructiva de Conjuntos (o Intervalos) :: Set-builder notation
+  - Números Naturales :: Natural numbers 
+  - Propiedades del Producto Cero :: Zero-product property
+  - Denominador :: Denominator
+  - Origen :: Origin
+  - Paréntesis :: Parenthesis
+  - Potenciación :: Exponentiation
+  - Función Potencia :: Power function 
+  - Radicando :: Radican
+  - Números Racionales :: Rational numbers
+  - Números Reales :: Real numbers
+  - Grado :: Degree
+  - Sustraendo :: Substraend
+  - Sustracción :: Substraction
+  - Numerador :: Numerator
+  - Punto de Inflección :: Point of inflection
