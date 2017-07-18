@@ -46,12 +46,12 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
    - If they contain a minus, change the sign of every term.
 * Binomial theorem
   - Def: Describes the expansion of powers of a binomial.
-** Square of a binomial
+
+** Binomial theorem
   - Often used for reduction.
-*** Equations
-    - (a + b)² = a² + b² + 2ab
-    - (a - b)² = a² + b² - 2ab
-    - (a + b)(a - b) = a² - b²
+  - (a + b)² = a² + b² + 2ab
+  - (a - b)² = a² + b² - 2ab
+  - (a + b)(a - b) = a² - b²
 * Fraction
   - Def: A representation of a non-whole number.
   - The denominator can't be 0.
