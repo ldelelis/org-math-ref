@@ -3,19 +3,18 @@
   - Solving an equation means finding the value(s) of the variable(s).   
 ** Quadratic equation
    - Def: Any equation given the form: ax^2 + bx + c = 0.
-   - a, b and c are the coefficients.
+   - /a/, /b/ and /c/ are the coefficients.
    - If a = 0, the equation is linear.
-   - The equation is a /second degree polynomial equation/.
-   - Graphed it is called a parabola.
+   - The equation is a second degree polynomial equation.
    - Quadratic coefficient :: Variable a.
    - Linear coefficient :: Variable b.
    - Constant :: Variable c.
      - Synonym: Free term.
 *** Discriminant
-    - Def: Solution by using finding the discriminant.
-    - The discriminant is represented as /D/ or delta.
+    - Def: Solution by using the discriminant.
+    - The discriminant is represented as /D/ or \Delta.
     - \Delta = b^2 - 4ac
-    - x = (-b ± √\Delta) / (2a)
+    - x = (-b ± \radic\Delta) / (2a)
     - If \Delta > 0, the equation has to solutions.
     - If \Delta = 0, the equation has 1 solution.
     - If \Delta < 0, the equation is unsolvable.
@@ -33,8 +32,8 @@
      1. ax + by = c
 	dx + ey = f
      2. x = -(by - c)/a // Solved for x
-     3. d * (-(by - c)/a) + ey = f // x has been substituted
-     4. y = (cd - af)/(bd - ae) // Solved for y	
+     3. d(-(by - c)/a) + ey = f // x has been substituted
+     4. y = (cd - af)/(bd - ae) // Solved for y
 *** Addition / Elimination
     - Def: Make one of the coefficients equal in both equations, to
       add or subtract them.
