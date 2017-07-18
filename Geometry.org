@@ -1,0 +1,65 @@
+* Unit circle
+  - Def: A circle with a radius of 1.
+  - Frequently used in trigonometry.
+
+* 2D polygons
+  - Def:
+
+** Circle
+   - Def: A closed shape in Euclidean geometry.
+   - A = \pi{}r²
+   - C = 2\pi{}r
+   - C = \pi{}d
+
+** Rectangle
+   - Def: A quadrilateral with 4 right angles in Euclidean geometry.
+   - A = lw
+   - P = 2l + 2w
+   - p = 2(l + w)
+
+** Parallelogram
+   - Def: A simple quadrilateral with 2 pairs of parallel sides.
+   - K = bh
+
+** Trapezoid
+   - Def: A convex quadrilateral with at least 1 pair of parallel
+     sides.
+   - K = (a + b)/2 * h
+* 3D figures
+  - Def:
+
+** Cube
+   - Def:
+   - V = a^3
+   - A = 6a^2
+
+** Prism
+   - Def: A polyhedron with 2 identical bases, where /n/ other faces
+     join the corresponding sides of the bases.
+   - Volume for a right prism: A = A_b * h
+
+** Cylinder
+   - Def:
+   - V = \pi{}r²h
+   - A = 2\pi{}r(h + r)
+
+** Sphere
+   - Def: A perfectly round 3D object.
+   - V = 4/3\pi{}r³
+   - A = 4\pi{}r²
+
+** Cone
+   - Def:
+   - V = 1/3A_{b}h
+   - A = \pi{}r(r + \radic(r² + h²))
+   - Slant height :: The distance from any point on the circle, to the
+		     apex.
+     - \radic(r² + h²)
+
+** Pyramid
+   - Def: A polyhedral formed by connecting a polygonal and to a point
+     known as the apex.
+   - V = 1/3A_{b}h
+   - Slant height L = \radic(h^2 + r²)
+     - /r/ is the inradius of the base
+   - A = A_b + PL/2
