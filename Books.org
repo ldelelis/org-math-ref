@@ -1,2 +1,7 @@
 * List of ISO standards
   - ISO 80000-2 :: Signs and symbols
+
+* Reference books
+  - The Princeton Companion to Mathematics
+  - Encyclopedia of Mathematics
+    - Alternatively visit www.encyclopediaofmath.org
