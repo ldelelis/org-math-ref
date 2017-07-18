@@ -64,7 +64,7 @@ Arithmetic is a branch of number theory. Can't be said with certainty.
   - Quotient :: The result of a division or fraction.
   - Unit fraction :: Fraction with a numerator of 1.
 ** Addition and subtraction
-   - To add, add add both numerators.
+   - To add, add both numerators.
    - To subtract, subtract both numerators.
    - Both fractions needs to have a common denominator.
    - a/c ± b/c = (a ± b)/c
