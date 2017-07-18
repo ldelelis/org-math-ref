@@ -18,6 +18,16 @@
     - If \Delta > 0, the equation has to solutions.
     - If \Delta = 0, the equation has 1 solution.
     - If \Delta < 0, the equation is unsolvable.
+*** Completing the square
+    - Def: In context of quadratic equations, it's a way to solve them
+      using a simple binomial theorem.
+    - ax^2 + bx + c = a(x - h)^2 + k
+      - h = -b/2a
+      - k = c - ah^2
+      - k = c - b^2/4a
+    - When a = 1: x^2 + bx + c = (x - h)^2 + k
+      - h = -b/2
+      - k = c - b^2/4
 ** System of equations
    - Def: A finite set of equations, that share common solutions.
    - Synonym: Simultaneous equations
